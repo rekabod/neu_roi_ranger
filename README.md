@@ -1,4 +1,4 @@
-# NeuroImage Toolbox
+# NeuROIranger Toolbox
 
 A modular Python toolkit for microscopy image processing, designed for neuroscience workflows. Includes tools for cropping ROIs, interactive annotation, and ROI analysis with support for TIFF, NPY, and JPEG formats.
 
