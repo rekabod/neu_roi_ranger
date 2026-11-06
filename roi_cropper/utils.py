@@ -1,0 +1,1 @@
+# ROI cropper specific utilities (if needed, extend here)
